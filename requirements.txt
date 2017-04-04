@@ -1,0 +1,8 @@
+pycrypto==2.6.1
+pyparsing==2.2.0
+requests==2.13.0
+robotframework==3.0.2
+robotframework-databaselibrary==0.8.1
+robotframework-requests==0.4.7
+robotframework-sshlibrary==2.1.3
+
